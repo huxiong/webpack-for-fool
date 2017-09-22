@@ -9,12 +9,6 @@
 
 这是一本关于webpack这种构建工具的书，用几个小项目的方法帮助大家快速上手这种工具，意在用比较浅显渐进的方法让人了解这个出色的前端工具。
 
-## 在线阅读
-
-已经同步到gitbook，建议大家在那里阅读，可以有更好的阅读体验。
-
-**[开始在gitbook阅读](https://vikingmute.gitbooks.io/webpack-for-fools/content/)**
-
 ## 目录
 
 * [初步认识webpack，学会使用webpack基本的功能。](entries/chapter-1.md)
